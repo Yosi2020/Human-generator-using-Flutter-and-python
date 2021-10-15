@@ -2,6 +2,8 @@
 
 A new Flutter project with Python data you can get the python human generating code from https://drive.google.com/file/d/1aXNPgm6w3qbSsjBfsLGK_hCbhRUyiUJc/view?usp=sharing.
 
+Do some people say what is going on here? the answer is simple by taking the human face and drawing face data together for the training model. Then, we connect the model into our human generator app finally, when you draw the human face then our model will predict what the person looks like. for this project, the best example is to predict the suspected person.   
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
